@@ -1,0 +1,21 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "junex",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.0.0"
+  },
+  "dependencies": {
+    "cypress-file-upload": "^3.5.3"
+  },
+
+    "videoCompression": 0  
+}
+  
